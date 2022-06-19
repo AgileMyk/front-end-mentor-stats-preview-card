@@ -333,6 +333,6 @@ main {
   @media screen and (min-width: 376px) {
     
     .heading-image-container {
-        background-image: url(./images/image-header-desktop.jpg);
+        background-image: url('https://github.com/AgileMyk/front-end-mentor-stats-preview-card/blob/main/images/image-header-desktop.jpg?raw=true');
     }
   }
