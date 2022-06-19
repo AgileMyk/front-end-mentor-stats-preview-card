@@ -291,7 +291,7 @@ main {
 
   .heading-image-container {
     height: 200px;
-    background-image: url('./images/image-header-mobile.jpg');
+    background-image: url('https://github.com/AgileMyk/front-end-mentor-stats-preview-card/blob/main/images/image-header-mobile.jpg?raw=true');
     background-size: cover;
     background-color: var(--span-bg-effect-color);
     background-blend-mode: luminosity;
